@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #3a5a40 !important;
+}
+
+.card{
+  width:240px;
+}
