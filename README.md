@@ -1,3 +1,4 @@
 # tenzi
 Tenzi application with react
-[link] (https://enchanting-biscochitos-0cd665.netlify.app/)
+# Link
+[project website](https://enchanting-biscochitos-0cd665.netlify.app/)
