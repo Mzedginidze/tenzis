@@ -1,2 +1,2 @@
 # tenzi
-Tenzis application with react
+Tenzi application with react
